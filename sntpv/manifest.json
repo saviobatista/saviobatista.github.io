@@ -1,6 +1,6 @@
 {
-    "name": "filiacao_sntpv",
-    "short_name": "filiacao_sntpv",
+    "name": "sntpv",
+    "short_name": "sntpv",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
